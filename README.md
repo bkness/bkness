@@ -2,7 +2,7 @@
 
 ## 🌟 About Me
 
-I'm Brandon, a passionate Web Developer who loves turning ideas into reality through code. I recently graduated from Arizona State University's Full-Stack Bootcamp, where I honed my skills in HTML, CSS, JavaScript, TypeScript, Node, React, MongoDB, GraphQL, and SQL.
+I'm Brandon, a passionate Web Developer who loves turning ideas into reality through code. I recently graduated from Arizona State University's Full-Stack Web Development Program, where I honed my skills in HTML, CSS, JavaScript, TypeScript, Node, React, MongoDB, GraphQL, and SQL.
 
 My journey into web development is fueled by a love for creativity and innovation. With a background in high-pressure environments, customer service, project management, leadership, and even botany, I bring a unique blend of skills and perspectives to every project I tackle.
 
@@ -53,9 +53,15 @@ My journey into web development is fueled by a love for creativity and innovatio
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="GraphQL" width="50" height="50"/>
   <img src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png" alt="HTTP" width="50" height="50"/>
   <img src="https://user-images.githubusercontent.com/25181517/186884152-ae609cca-8cf1-4175-8d60-1ce1fa078ca2.png" alt="mac" width="50" height="50"/>
-</p>
+</p> <br />
 
-![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=bkness&show_icons=true&theme=radical)
+![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=bkness&show_icons=true&theme=radical) <br />
+
+### Testing the API endpoints of a social media application I developed using Express.js for routing, MongoDB as the database, and leveraging the mongoose package
+
+
+[![Watch the video](image-1.png)](https://youtu.be/g3LsVPTANH0)
+
 
 ## 📬 Let's Connect!
 
@@ -64,5 +70,4 @@ My journey into web development is fueled by a love for creativity and innovatio
 - [📧 Email](mailto:your.email@example.com)
 
 Thanks for stopping by! Let's create something amazing together!
-
 
