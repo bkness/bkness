@@ -60,7 +60,9 @@ My journey into web development is fueled by a love for creativity and innovatio
 ### Testing the API endpoints of a social media application I developed using Express.js for routing, MongoDB as the database, and leveraging the mongoose package
 
 
-[![Watch the video](image-1.png)](https://youtu.be/g3LsVPTANH0)
+<a href="https://youtu.be/g3LsVPTANH0">
+    <img src="image-1.png" alt="Watch the video" height="350" width="350">
+</a>
 
 
 ## 📬 Let's Connect!
