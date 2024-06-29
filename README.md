@@ -57,7 +57,7 @@ My journey into web development is fueled by a love for creativity and innovatio
 
 ![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=bkness&show_icons=true&theme=radical) <br />
 
-### Testing the API endpoints of a social media application I developed using Express.js for routing, MongoDB as the database, and leveraging the mongoose package
+## Testing the API endpoints of a social media application I developed using Express.js for routing, MongoDB as the database, and leveraging the mongoose package
 
 
 <a href="https://youtu.be/g3LsVPTANH0">
@@ -68,7 +68,7 @@ My journey into web development is fueled by a love for creativity and innovatio
 ## 📬 Let's Connect!
 
 - [🌐 Portfolio](https://brandon-kellys-portfolio.netlify.app/)
-<!-- - [💼 LinkedIn](https://www.linkedin.com/in/brandon-kelly-367b3730b//) -->
+- [💼 LinkedIn](https://www.linkedin.com/in/brandon-kelly-367b3730b//)
 - [📧 Email](mailto:your.email@example.com)
 
 Thanks for stopping by! Let's create something amazing together!
