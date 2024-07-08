@@ -5,12 +5,12 @@
 <h2 style="text-align: center">Principles I Live By<h2>
 
 <div style="text-align: center;">
-  <h5<strong>COMMUNICATION IS IMPORTANT</strong><h5>
-  <h5>1. There is no knowledge that is not power</h5>
-  <h5>2. Docs are your best friend; no one will hold your hand</h5>
-  <h5>3. Try to be kind</h5>
-  <h5>4. Where's the food?</h5>
-</div></br>
+  <h5>1. COMMUNICATION IS IMPORTANT</strong>
+  <h5>2. There is no knowledge that is not power</h5>
+  <h5>3. Docs are your best friend; no one will hold your hand</h5>
+  <h5>4. Try to be kind</h5>
+  <h5>5. Where's the food?</h5>
+</div>
 
 <div style="text-align: center;">
   <h2>Languages | Web Dev</h2>
@@ -95,9 +95,11 @@
 📬 Let's Connect!
 </h2>
 
-- [🌐 Portfolio](https://brandon-kellys-portfolio.netlify.app/)
-- [💼 LinkedIn](https://www.linkedin.com/in/brandon-kelly-367b3730b//)
-- [📧 Email](mailto:your.email@example.com)
+<div style="text-align: center;">
+
+ [🌐 Portfolio](https://brandon-kellys-portfolio.netlify.app/) | [💼 LinkedIn](https://www.linkedin.com/in/brandon-kelly-367b3730b//) | [📧 Email](mailto:your.email@example.com)
+
+</div>
 
 Thanks for stopping by! Let's create something amazing together!
 
