@@ -1,13 +1,15 @@
 <div style="text-align: center;">
-# Hello World! I'm Brandon Kelly 🌍
+<h1>Hello World! I'm Brandon Kelly 🌍<h1>
 </div>
 
 <h2 style="text-align: center">Principles I Live By<h2>
 
 <div style="text-align: center;">
+  <h5<strong>COMMUNICATION IS IMPORTANT</strong><h5>
   <h5>1. There is no knowledge that is not power</h5>
   <h5>2. Docs are your best friend; no one will hold your hand</h5>
-  <h5>3. Where's the food?</h5>
+  <h5>3. Try to be kind</h5>
+  <h5>4. Where's the food?</h5>
 </div></br>
 
 <div style="text-align: center;">
@@ -89,7 +91,9 @@
 </a>
 </div>
 
-## 📬 Let's Connect!
+<h2 style="text-align: center;">
+📬 Let's Connect!
+</h2>
 
 - [🌐 Portfolio](https://brandon-kellys-portfolio.netlify.app/)
 - [💼 LinkedIn](https://www.linkedin.com/in/brandon-kelly-367b3730b//)
