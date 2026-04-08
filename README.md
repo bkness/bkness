@@ -2,9 +2,7 @@
 
 ## 🌟 About Me
 
-I'm Brandon, a passionate Web Developer who loves turning ideas into reality through code. I recently graduated from Arizona State University's Full-Stack Web Development Program, where I honed my skills in HTML, CSS, JavaScript, TypeScript, Node, React, MongoDB, GraphQL, and SQL.
-
-My journey into web development is fueled by a love for creativity and innovation. With a background in high-pressure environments, customer service, project management, leadership, and even botany, I bring a unique blend of skills and perspectives to every project I tackle.
+Hi — I'm Brandon. I'm a practical web developer who enjoys building clear, useful web applications. I completed Arizona State University's Full‑Stack Web Development program, and I work primarily with JavaScript/TypeScript, Node, React, and relational and document databases (SQL, MongoDB). My background in customer service, project management, and even botany helps me approach problems with patience, process, and curiosity.
 
 ## 🚀 Skills
 
