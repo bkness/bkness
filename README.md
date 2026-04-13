@@ -42,8 +42,6 @@ thoughts, and reactions. Designed to mirror the data demands of a real social pl
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brandon-kelly-367b3730b/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kbrandon863@gmail.com)
 
-[![](https://komarev.com/ghpvc/?username=bkness&icon=0&color=0)](https://visitcount.itsvg.in)
-
 ---
 
 ## 💰 You can help me by Donating
