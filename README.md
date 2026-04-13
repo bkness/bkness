@@ -23,9 +23,9 @@ Full-stack web developer with a background that blends tech with people skills â
 ## ğŸ Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="[raw.githubusercontent.com](https://raw.githubusercontent.com/bkness/bkness/output/github-contribution-grid-snake-dark.svg)"/>
-  <source media="(prefers-color-scheme: light)" srcset="[raw.githubusercontent.com](https://raw.githubusercontent.com/bkness/bkness/output/github-contribution-grid-snake.svg)"/>
-  <img alt="contribution snake animation" src="[raw.githubusercontent.com](https://raw.githubusercontent.com/bkness/bkness/output/github-contribution-grid-snake.svg)"/>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
 ---
