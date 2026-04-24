@@ -1,0 +1,27 @@
+<svg width="160" height="20" viewBox="0 0 160 20" xmlns="http://www.w3.org/2000/svg">
+  <!-- Headphone arc -->
+  <path d="M6 13 Q6 3 14 3 Q22 3 22 13" fill="none" stroke="#00ff00" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Left ear cup -->
+  <rect x="4" y="12" width="4" height="6" rx="1.5" fill="#00ff00"/>
+  <!-- Right ear cup -->
+  <rect x="20" y="12" width="4" height="6" rx="1.5" fill="#00ff00"/>
+  <!-- Equalizer bars -->
+  <rect x="32" y="15" width="2" height="3" rx="1" fill="#00ff00">
+    <animate attributeName="height" values="3;10;5;12;3" dur="1.2s" repeatCount="indefinite"/>
+    <animate attributeName="y" values="15;8;13;6;15" dur="1.2s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="36" y="12" width="2" height="7" rx="1" fill="#00ff00">
+    <animate attributeName="height" values="7;4;12;3;7" dur="0.9s" repeatCount="indefinite"/>
+    <animate attributeName="y" values="12;15;7;16;12" dur="0.9s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="40" y="10" width="2" height="9" rx="1" fill="#00ff00">
+    <animate attributeName="height" values="9;14;4;11;9" dur="1.4s" repeatCount="indefinite"/>
+    <animate attributeName="y" values="10;5;15;8;10" dur="1.4s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="44" y="13" width="2" height="5" rx="1" fill="#00ff00">
+    <animate attributeName="height" values="5;11;3;8;5" dur="1s" repeatCount="indefinite"/>
+    <animate attributeName="y" values="13;7;16;11;13" dur="1s" repeatCount="indefinite"/>
+  </rect>
+  <!-- Label -->
+  <text x="54" y="14" font-family="monospace,Courier New,Courier" font-size="11" fill="#00ff00" letter-spacing="1">always listening</text>
+</svg>
