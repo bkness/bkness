@@ -1,3 +1,7 @@
+<div align="right">
+  <img src="assets/online.svg" alt="online" />
+</div>
+
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=Full-Stack+Web+Developer;React+%7C+Node+%7C+MongoDB;Building+things+and+having+fun+😎)](https://git.io/typing-svg)
 
 Full-stack web developer with a background that blends tech with people skills — customer service, project management, and yes, botany 🌱. That mix means I build things that actually work for the humans using them.<br><br>I completed ASU's edX Full-Stack Web Development bootcamp (93% 💪) and specialize in JavaScript, React, Node.js/Express, and both SQL and MongoDB. Currently building in public and open to new opportunities.
@@ -17,6 +21,10 @@ Full-stack web developer with a background that blends tech with people skills �
 ![](https://github-readme-stats.shion.dev/api?username=bkness&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=bkness&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=bkness&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+
+<img src="assets/headphones.svg" alt="always listening" />
 
 ---
 
@@ -47,5 +55,3 @@ thoughts, and reactions. Designed to mirror the data demands of a real social pl
 ## 💰 You can help me by Donating
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/sacrilegiousoath)
-
- <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
