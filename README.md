@@ -1,5 +1,5 @@
 <div align="right">
-  ![Status](https://www.weballtech.com/api/badge)
+  <img src="https://www.weballtech.com/api/badge" alt="Status" />
 </div>
 
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=Full-Stack+Web+Developer;React+%7C+Node+%7C+MongoDB;Building+things+and+having+fun+😎)](https://git.io/typing-svg)
