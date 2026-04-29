@@ -1,5 +1,5 @@
 <div align="right">
-  <img src="assets/online.svg" alt="online" />
+  ![Status](https://www.weballtech.com/api/badge)
 </div>
 
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=Full-Stack+Web+Developer;React+%7C+Node+%7C+MongoDB;Building+things+and+having+fun+😎)](https://git.io/typing-svg)
