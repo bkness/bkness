@@ -102,9 +102,15 @@ I build fast, human-centered web experiences and ship consistently in public.
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bkness/bkness/main/github-pacman-dark.svg" />
-  <img src="https://raw.githubusercontent.com/bkness/bkness/main/github-pacman.svg" />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/bkness/bkness/main/github-pacman-dark.svg?v=1"
+  />
+  <img
+    src="https://raw.githubusercontent.com/bkness/bkness/main/github-pacman.svg?v=1"
+  />
 </picture>
+
 
 ---
 <br>
