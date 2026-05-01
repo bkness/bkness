@@ -2,35 +2,69 @@
   <img src="https://www.weballtech.com/api/badge" alt="Status" width="100%" />
 </div>
 
-<img src="https://www.weballtech.com/api/text-animation?animation=typing&font=code&lines=Full-Stack+Developer;Always+problem+solving;Always+be+learning;&color=00ff41&width=320&height=80" width="100%"/>
+<img src="https://www.weballtech.com/api/text-animation?animation=typing&font=code&lines=Full-Stack+JavaScript+Engineer;Always+problem+solving;Always+be+learning;&color=00ff41&width=400&height=80" width="100%"/>
 
 <img src="https://weballtech.com/api/text-animation?animation=reveal&lines=REACT+|+NODE+|+EXPRESS&color=00d4ff&width=350&height=60&size=23&repeat=true&pause=3000" width="100%" />
 
 <img src="https://weballtech.com/api/text-animation?animation=neon&lines=CLI+|+REST+|+AUTH&color=00d4ff&width=350&height=60&size=30&repeat=true&pause=3000" width="100%" />
 
-Full-stack web developer with a background that blends tech with people skills — customer service, project management, and yes, botany 🌱. That mix means I build things that actually work for the humans using them.<br><br>I completed ASU's edX Full-Stack Web Development bootcamp (93% 💪) and specialize in JavaScript, React, Node.js/Express, and both SQL and MongoDB. Currently building in public and open to new opportunities.
+---
+
+<p align="center">
+  <img src="assets/bkness_terminal.gif" width="100%" />
+</p>
+
+---
+
+<img src="https://weballtech.com/api/text-animation?animation=fade&lines=Full-Stack+Developer+%7C+JS+%C2%B7+React+%C2%B7+Node;93+percent+ASU+edX+Bootcamp+%F0%9F%92%AA;Building+things+that+work+for+humans+%F0%9F%8C%B1&color=ffffff&width=900&height=140&size=20&repeat=true&pause=3000&multiline=true&center=true&vCenter=true" width="100%"/>
+
+<div align="center">
+<h2>
+Full-stack JavaScript engineer focused on React, Node.js, and API-driven products.
+I build fast, human-centered web experiences and ship consistently in public.
+</h2>
+</div>
+
+---
+
+<p align="center">
+  <img src="assets/terminal.gif" width="100%" alt="bkness" />
+</p>
+
+---
 
 ## 🌐 Socials:
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/NightOwlzOfficial)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/brandon-kelly-367b3730b/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white&style=for-the-badge)](https://reddit.com/user/SacrilegiousOath)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white&style=for-the-badge)](https://twitch.tv/IllSacrilege)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white&style=for-the-badge)](https://x.com/IllSacrilege)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white&style=for-the-badge)](https://youtube.com/@BrandonKellyDev)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:kbrandon863@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/NightOwlzOfficial)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/brandon-kelly-367b3730b/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white&style=for-the-badge)](https://reddit.com/user/SacrilegiousOath)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white&style=for-the-badge)](https://twitch.tv/IllSacrilege)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white&style=for-the-badge)](https://x.com/IllSacrilege)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white&style=for-the-badge)](https://youtube.com/@BrandonKellyDev)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:kbrandon863@gmail.com)
 
 </div>
 
 # 💻 Tech Stack:
 
+---
+
+<div align="center">
+
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Handlebars](https://img.shields.io/badge/Handlebars-%23000000?style=for-the-badge&logo=Handlebars.js&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
 
 ---
 
+<p align="center">
+  <img src="assets/bkness.gif" width="100%" alt="bkness" />
+</p>
+
+---
 <br>
 
 # 📊 GitHub Stats:<div align="center">![Profile Views](https://komarev.com/ghpvc/?username=bkness&color=blueviolet&style=for-the-badge)
 
-![](https://github-readme-stats.shion.dev/api?username=bkness&theme=dark&hide_border=false&include_all_commits=false&count_private=false)![](https://github-readme-stats.shion.dev/api/top-langs/?username=bkness&theme=dark&card_width=370&langs_count=8&hide_border=false&include_all_commits=true&count_private=true&layout=compact)![](https://streak-stats.demolab.com/?user=bkness&theme=dark&hide_border=false)
+![](https://github-readme-stats.shion.dev/api?username=bkness&theme=dark&hide_border=false&include_all_commits=false&count_private=false)![](https://github-readme-stats.shion.dev/api/top-langs/?username=bkness&theme=dark&card_width=350&langs_count=8&hide_border=false&include_all_commits=true&count_private=true&layout=compact)![](https://streak-stats.demolab.com/?user=bkness&theme=dark&hide_border=false)
 
-</br>
+<br />
 
 ---
 
@@ -39,17 +73,16 @@ Full-stack web developer with a background that blends tech with people skills �
 
 <img src="assets/headphones.svg" width="1000" alt="always listening" />
 
-</br>
+<br />
 </div>
 
 ---
 
-<!--
-<div align="center">
+<p align="center">
+  <img src="assets/banner1.gif" width="100%" alt="bkness" />
+</p>
 
-<h1> 🐍 Contribution Snake </h1>
-
-</div> -->
+---
 <br />
 <br />
 
@@ -64,15 +97,21 @@ Full-stack web developer with a background that blends tech with people skills �
   srcset="https://raw.githubusercontent.com/bkness/bkness/main/github-snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/bkness/bkness/main/github-snake.svg" />
   </picture>
-  </br>
+  <br />
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bkness/bkness/main/github-pacman-dark.svg" />
+  <img src="https://raw.githubusercontent.com/bkness/bkness/main/github-pacman.svg" />
+</picture>
+
+---
 <br>
 
 ![gifgithub](https://raw.githubusercontent.com/bkness/bkness/main/assets/mario.gif)
 
-</br>
+<br />
 
 ---
 
