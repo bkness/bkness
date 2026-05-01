@@ -4,7 +4,9 @@
 
 <img src="https://www.weballtech.com/api/text-animation?animation=typing&font=code&lines=Full-Stack+Developer;Always+problem+solving;Always+be+learning;&color=00ff41&width=320&height=80" width="100%"/>
 
-<img src="https://weballtech.com/api/text-animation?animation=reveal&lines=REACT+|+NODE+|+EXPRESS&color=00ff41&width=350&height=60&size=22&repeat=true&pause=3000" width="100%" />
+<img src="https://weballtech.com/api/text-animation?animation=reveal&lines=REACT+|+NODE+|+EXPRESS&color=00d4ff&width=350&height=60&size=23&repeat=true&pause=3000" width="100%" />
+
+<img src="https://weballtech.com/api/text-animation?animation=neon&lines=CLI+|+REST+|+AUTH&color=00d4ff&width=350&height=60&size=30&repeat=true&pause=3000" width="100%" />
 
 Full-stack web developer with a background that blends tech with people skills — customer service, project management, and yes, botany 🌱. That mix means I build things that actually work for the humans using them.<br><br>I completed ASU's edX Full-Stack Web Development bootcamp (93% 💪) and specialize in JavaScript, React, Node.js/Express, and both SQL and MongoDB. Currently building in public and open to new opportunities.
 
