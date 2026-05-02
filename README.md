@@ -6,12 +6,12 @@
 
 <!-- Opening Stack animated font  -->
 <div align="center">
-  <img src="https://www.weballtech.com/api/text-animation?animation=typing&font=code&lines=Full-Stack+JavaScript+Engineer;Always+problem+solving;Always+learning+something+new;&color=00FF41&size=28&width=500&height=30&center=true&vCenter=true" width="90%" alt="Animated Full-Stack JavaScript Engineer text" />
-  <img src="assets/matrix-hr.svg" alt="Cyan divider" width="900" />
-  <img src="https://weballtech.com/api/text-animation?animation=reveal&lines=REACT+|+NODE+|+EXPRESS&color=00D4FF&width=380&height=35&size=16&repeat=true&center=true&vCenter=true&pause=3000" width="90%" alt="Animated REACT NODE EXPRESS text" />
-  <img src="assets/cyanglow-hr.svg" alt="Cyan divider" width="500" />
-  <img src="https://weballtech.com/api/text-animation?animation=neon&lines=CLI+|+REST+|+AUTH&color=00D4FF&width=350&height=20&size=14&repeat=true&center=true&vCenter=true&pause=3000" width="90%" alt="Animated CLI REST AUTH text" />
-  <img src="assets/cyanglow-hr.svg" alt="Cyan divider" width="420" />
+  <img src="https://www.weballtech.com/api/text-animation?animation=typing&font=code&lines=Full-Stack+JavaScript+Engineer;Always+problem+solving;Always+learning+something+new;&color=00FF41&size=28&width=500&height=50&center=true&vCenter=true" width="90%" alt="Animated Full-Stack JavaScript Engineer text" />
+  <img src="assets/matrix-hr.svg" alt="Cyan divider" widt="350" />
+  <img src="https://weballtech.com/api/text-animation?animation=reveal&lines=REACT+|+NODE+|+EXPRESS&color=00D4FF&width=380&height=50&size=16&repeat=true&center=true&vCenter=true&hCenter=true&pause=3000" width="90%" alt="Animated REACT NODE EXPRESS text" />
+  <img src="assets/cyanglow-hr.svg" alt="Cyan divider" width="270" />
+  <img src="https://weballtech.com/api/text-animation?animation=neon&lines=CLI+|+REST+|+AUTH&color=00D4FF&&height=50width=350&height=50&size=14&repeat=true&center=true&vCenter=true&pause=3000" width="90%" alt="Animated CLI REST AUTH text" />
+  <img src="assets/cyanglow-hr.svg" alt="Cyan divider" width="150" />
 </div>
 
 <!-- My personal BIO terminal gif -->
@@ -20,13 +20,15 @@
   <img src="assets/bkness_terminal.gif" width="90%" alt="Terminal animation" />
 </p>
 
+<br />
+
 <div align="center">
   <!-- Opening bio animated text font -->
-  <img src="https://weballtech.com/api/text-animation?animation=fade&lines=Full-Stack+Developer+%7C+JS+%C2%B7+React+%C2%B7+Node;93+percent+ASU+edX+Bootcamp+%F0%9F%92%AA;Building+things+that+work+for+humans+%F0%9F%8C%B1&color=00df41&width=900&height=110&size=28&duration=2500&repeat=true&pause=1000&multiline=true&center=true&vCenter=true" width="100%" alt="Animated Full-Stack Developer bio text" />
-  <img src="assets/matrix-hr.svg" alt="Cyan divider" width="800" />
+  <img src="https://weballtech.com/api/text-animation?animation=fade&lines=Full-Stack+Developer+%7C+JS+%C2%B7+React+%C2%B7+Node;93+percent+ASU+edX+Bootcamp+%F0%9F%92%AA;Building+things+that+work+for+humans+%F0%9F%8C%B1&color=00df41&width=900&height=150&size=28&duration=2500&repeat=true&pause=1000&multiline=true&center=true&vCenter=true" width="100%" alt="Animated Full-Stack Developer bio text" />
+  <img src="assets/matrix-hr.svg" alt="Cyan divider" width="300" />
   <!-- Animated svg text with my BIO -->
-  <img src="https://weballtech.com/api/text-animation?animation=reveal&lines=Full-Stack+JavaScript+Enginerr+focused+on+React+%C2%B7+Node+%C2%B7+API-driven;products.;I+build+fast,+user-centered+web+experiences+and+ship+consistently;in+public.&color=00d4ff&width=950&height=140&size=22&repeat=truee&pause=3000&speed=-200&multiline=true&center=true&vCenter=true" width="100%" alt="Animated Full-Stack JavaScript Engineer focus text" />
-  <img src="assets/cyanglow-hr.svg" alt="Cyan divider" width="650" />
+  <img src="https://weballtech.com/api/text-animation?animation=reveal&lines=Full-Stack+JavaScript+Enginerr+focused+on+React+%C2%B7+Node+%C2%B7+API-driven;products.;I+build+fast,+user-centered+web+experiences+and+ship+consistently;in+public.&color=00d4ff&width=950&height=150&size=22&repeat=truee&pause=3000&speed=-200&multiline=true&center=true&vCenter=true" width="100%" alt="Animated Full-Stack JavaScript Engineer focus text" />
+  <img src="assets/cyanglow-hr.svg" alt="Cyan divider" width="175" />
 </div>
 
 <br />
@@ -95,19 +97,19 @@
 
 ![](https://github-readme-stats.shion.dev/api?username=bkness&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)
 
-<img src="assets/purpleglow-hr.svg" alt="Purple hr" width="485" />
+<img src="assets/purpleglow-hr.svg" alt="Purple hr" width="370" />
 
 <br />
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=bkness&theme=midnight-purple&card_width=450&langs_count=8&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<img src="assets/purpleglow-hr.svg" alt="Purple hr" width="485" />
+<img src="assets/purpleglow-hr.svg" alt="Purple hr" width="370" />
 
 <br />
 
 ![](https://streak-stats.demolab.com/?user=bkness&theme=midnight-purple&hide_border=false)
 
-<img src="assets/purpleglow-hr.svg" alt="Purple hr" width="550"/>
+<img src="assets/purpleglow-hr.svg" alt="Purple hr" width="400"/>
 
 </div>
 
@@ -119,8 +121,8 @@
 
 <img src="assets/headphones.svg" width="700" alt="always listening" />
 
-<br />
 </div>
+<br />
 
 <!-- Another personal banner -->
 <p align="center">
@@ -132,7 +134,7 @@
 <br />
 
 <img src="https://weballtech.com/api/text-animation?animation=stroke&lines=🐍+|+CONTRIBUTION+SNAKE&color=00D4FF&width=400&height=35&size=16&center=true&&repeat=true&pause=3000" width="90%"/>
-<img src="assets/cyanglow-hr.svg" alt="Cyan hr" width="400px">
+<img src="assets/cyanglow-hr.svg" alt="Cyan hr" width="200px">
 
 </div>
 
@@ -144,9 +146,10 @@
     <source media="(prefers-color-scheme: light)"
   srcset="https://raw.githubusercontent.com/bkness/bkness/main/github-snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/bkness/bkness/main/github-snake.svg" />
+    
   </picture>
-  <br />
-
+  
+<br />
 <!-- Pacman contribution gif custom -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bkness/bkness/main/github-pacman-dark.svg?v=1" />
