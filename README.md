@@ -47,8 +47,8 @@ I build fast, human-centered web experiences and ship consistently in public.
   <img src="assets/night-loop.gif">
 </p>
 <p align="center">
-  <img src="assets/doesnt-work.gif" width="49%" height="330" alt="doesnt work" />
-  <img src="assets/typing-cat.gif" width="49%" height="330" alt="typing cat" />
+  <img src="assets/doesnt-work.gif" width="49%" height="430" alt="doesnt work" />
+  <img src="assets/typing-cat.gif" width="49%" height="430" alt="typing cat" />
 </p>
 
 ---
