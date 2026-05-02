@@ -32,7 +32,7 @@
 <img src="https://weballtech.com/api/text-animation?animation=fade&lines=Full-Stack+Developer+%7C+JS+%C2%B7+React+%C2%B7+Node;93+percent+ASU+edX+Bootcamp+%F0%9F%92%AA;Building+things+that+work+for+humans+%F0%9F%8C%B1&color=00df41&width=900&height=100&size=28&duration=2500&repeat=true&pause=1000&multiline=true&center=true&vCenter=true" width="100%"/>
 <hr style="width: 675px; border: 1.5px solid #00FF41; border-radius: 3px; margin: 40px auto; box-shadow: 0 0 12px 2px #00FF41" />
 
-<!-- Animated svg text BIO -->
+<!-- Animated svg text with my BIO -->
 <img src="https://weballtech.com/api/text-animation?animation=reveal&lines=Full-Stack+JavaScript+Enginerr+focused+on+React+%C2%B7+Node+%C2%B7+API-driven;products.;I+build+fast,+user-centered+web+experiences+and+ship+consistently;in+public.&color=00d4ff&width=950&height=140&size=22&repeat=truee&pause=3000&speed=-200&multiline=true&center=true&vCenter=true" width="100%"/>
 <hr style="width: 675px; border: 1.5px solid #00D4FF; border-radius: 3px; margin: 40px auto; box-shadow: 0 0 12px 2px #00D4FF" />
 
