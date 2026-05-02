@@ -3,8 +3,6 @@
 </div>
 <br />
 
-
-
 <br />
 
 <img src="https://www.weballtech.com/api/text-animation?animation=typing&font=code&lines=Full-Stack+JavaScript+Engineer;Always+problem+solving;Always+learning+something+new;&color=00ff41&size=28&width=500&height=30&center=true&vCenter=true" width="100%"/>
@@ -16,6 +14,7 @@
 <br />
 
 ---
+
 <br />
 
 <p align="center">
@@ -26,7 +25,7 @@
 
 <img src="https://weballtech.com/api/text-animation?animation=fade&lines=Full-Stack+Developer+%7C+JS+%C2%B7+React+%C2%B7+Node;93+percent+ASU+edX+Bootcamp+%F0%9F%92%AA;Building+things+that+work+for+humans+%F0%9F%8C%B1&color=00df41&width=900&height=140&size=28&duration=2500&repeat=true&pause=1000&multiline=true&center=true&vCenter=true" width="100%"/>
 
-<img src="https://weballtech.com/api/text-animation?animation=reveal&lines=Full-Stack+JavaScript+Enginerr+focused+on+React+%C2%B7+Node%C2%B7+API-driven;products.+I+build+fast,+user-centered+web+experiences+and+ship;consistently+in+public.&color=00d4ff&width=950&height=140&size=22&repeat=truee&pause=3000&speed=-200&multiline=true&center=true&vCenter=true" width="100%"/>
+<img src="https://weballtech.com/api/text-animation?animation=reveal&lines=Full-Stack+JavaScript+Enginerr+focused+on+React+%C2%B7+Node+%C2%B7+API-driven;products.;I+build+fast,+user-centered+web+experiences+and+ship+consistently;in+public.&color=00d4ff&width=950&height=140&size=22&repeat=truee&pause=3000&speed=-200&multiline=true&center=true&vCenter=true" width="100%"/>
 
 <!-- <div align="center">
 <h2>
@@ -40,10 +39,21 @@ I build fast, human-centered web experiences and ship consistently in public.
 <p align="center">
   <img src="assets/terminal.gif" width="100%" alt="bkness" />
 </p>
+<br />
 
 ---
 
-## 🌐 Socials:
+<p>
+  <img src="assets/night-loop.gif">
+</p>
+<p align="center">
+  <img src="assets/doesnt-work.gif" width="49%" height="293" alt="doesnt work" />
+  <img src="assets/typing-cat.gif" width="49%" alt="typing cat" />
+</p>
+
+---
+
+# 🌐 Socials:
 
 <div align="center">
 
@@ -51,9 +61,10 @@ I build fast, human-centered web experiences and ship consistently in public.
 
 </div>
 
+---
+
 # 💻 Tech Stack:
 
----
 
 <div align="center">
 
@@ -68,11 +79,27 @@ I build fast, human-centered web experiences and ship consistently in public.
 </p>
 
 ---
+
 <br>
 
-# 📊 GitHub Stats:<div align="center">![Profile Views](https://komarev.com/ghpvc/?username=bkness&color=blueviolet&style=for-the-badge)
+# 📊 GitHub Stats:<div align="center">![Profile Views](https://komarev.com/ghpvc/?username=bkness&color=blueviolet&style=for-the-badge)</div>
 
-![](https://github-readme-stats.shion.dev/api?username=bkness&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)![](https://github-readme-stats.shion.dev/api/top-langs/?username=bkness&theme=github_dark&card_width=350&langs_count=8&hide_border=false&include_all_commits=true&count_private=true&layout=compact)![](https://streak-stats.demolab.com/?user=bkness&theme=midnight-purple&hide_border=false)
+<img src="assets/reactjs.svg" height="70"/>
+<img src="assets/javascript.svg" height="70"/>
+<img src="assets/css3.svg" height="70"/>
+<img src="assets/nodejs.svg" height="70"/>
+<img src="assets/netlify.svg" height="70"/>
+<img src="assets/railway.svg" height="70"/>
+<img src="assets/render.svg" height="70"/>
+<img src="assets/vercel.svg" height="70"/>
+
+---
+
+<div align="center">
+
+![](https://github-readme-stats.shion.dev/api?username=bkness&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)![](https://github-readme-stats.shion.dev/api/top-langs/?username=bkness&theme=github_dark&card_width=450&langs_count=8&hide_border=false&include_all_commits=true&count_private=true&layout=compact)![](https://streak-stats.demolab.com/?user=bkness&theme=midnight-purple&hide_border=false)
+
+</div>
 
 <br />
 
@@ -93,6 +120,7 @@ I build fast, human-centered web experiences and ship consistently in public.
 </p>
 
 ---
+
 <br />
 
 <img src="https://weballtech.com/api/text-animation?animation=stroke&lines=🐍+|+CONTRIBUTION+SNAKE&color=00d4ff&width=400&height=35&size=16&center=true&&repeat=true&pause=3000" width="100%"/>
@@ -120,8 +148,8 @@ I build fast, human-centered web experiences and ship consistently in public.
   />
 </picture>
 
-
 ---
+
 <br>
 
 ![gifgithub](https://raw.githubusercontent.com/bkness/bkness/main/assets/mario.gif)
@@ -148,4 +176,3 @@ thoughts, and reactions. Designed to mirror the data demands of a real social pl
 ## 💰 You can help me by Donating<br /><br />[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/sacrilegiousoath)
 
 </div>
-
