@@ -1,17 +1,15 @@
 <!-- Online badge -->
-<div>
-  <img src="https://www.weballtech.com/api/badge" alt="Status" width="100%" />
+<div align="center">
+  <img src="https://www.weballtech.com/api/badge" alt="Status" width="90%" />
 </div>
 <br />
 
-<br />
-
 <!-- Opening Stack animated font  -->
-<img src="https://www.weballtech.com/api/text-animation?animation=typing&font=code&lines=Full-Stack+JavaScript+Engineer;Always+problem+solving;Always+learning+something+new;&color=00ff41&size=28&width=500&height=30&center=true&vCenter=true" width="100%"/>
+<img src="https://www.weballtech.com/api/text-animation?animation=typing&font=code&lines=Full-Stack+JavaScript+Engineer;Always+problem+solving;Always+learning+something+new;&color=00ff41&size=28&width=500&height=30&center=true&vCenter=true" width="90%"/>
 
-<img src="https://weballtech.com/api/text-animation?animation=reveal&lines=REACT+|+NODE+|+EXPRESS&color=00d4ff&width=380&height=60&size=16&repeat=true&center=true&vCenter=true&pause=3000" width="100%" />
+<img src="https://weballtech.com/api/text-animation?animation=reveal&lines=REACT+|+NODE+|+EXPRESS&color=00d4ff&width=380&height=60&size=16&repeat=true&center=true&vCenter=true&pause=3000" width="90%" />
 
-<img src="https://weballtech.com/api/text-animation?animation=neon&lines=CLI+|+REST+|+AUTH&color=00d4ff&width=350&height=20&size=14&repeat=true&center=true&vCenter=true&pause=3000" width="100%" />
+<img src="https://weballtech.com/api/text-animation?animation=neon&lines=CLI+|+REST+|+AUTH&color=00d4ff&width=350&height=20&size=14&repeat=true&center=true&vCenter=true&pause=3000" width="90%" />
 
 <br />
 
@@ -21,7 +19,7 @@
 <br />
 
 <p align="center">
-  <img src="assets/bkness_terminal.gif" width="100%" />
+  <img src="assets/bkness_terminal.gif" width="90%" />
 </p>
 
 ---
@@ -36,19 +34,19 @@
 
 <!-- Forges-CLI terminal gif -->
 <p align="center">
-  <img src="assets/terminal.gif" width="100%" alt="bkness" />
+  <img src="assets/terminal.gif" width="90%" alt="bkness" />
 </p>
 <br />
 
 ---
 
 <!-- Gifs -->
-<p>
-  <img src="assets/night-loop.gif">
+<p align="center">
+  <img src="assets/night-loop.gif" width="90%">
 </p>
 <p align="center">
-  <img src="assets/doesnt-work.gif" width="49%" height="350" alt="doesnt work" />
-  <img src="assets/typing-cat.gif" width="49%" height="325" alt="typing cat" />
+  <img src="assets/doesnt-work.gif" width="48%" height="325" alt="doesnt work" />
+  <img src="assets/typing-cat.gif" width="48%" height="325" alt="typing cat" />
 </p>
 
 ---
@@ -79,7 +77,7 @@
 
 <!-- My banner gif -->
 <p align="center">
-  <img src="assets/bkness.gif" width="100%" alt="bkness" />
+  <img src="assets/bkness.gif" width="90%" alt="bkness" />
 </p>
 
 ---
@@ -119,7 +117,7 @@
 <div align="center">
 <br>
 
-<img src="assets/headphones.svg" width="1000" alt="always listening" />
+<img src="assets/headphones.svg" width="700" alt="always listening" />
 
 <br />
 </div>
@@ -128,7 +126,7 @@
 
 <!-- Another personal banner -->
 <p align="center">
-  <img src="assets/banner1.gif" width="100%" alt="bkness" />
+  <img src="assets/banner1.gif" width="90%" alt="bkness" />
 </p>
 
 ---
@@ -136,7 +134,7 @@
 <!-- Contribution snake animated text display 🐍 -->
 <br />
 
-<img src="https://weballtech.com/api/text-animation?animation=stroke&lines=🐍+|+CONTRIBUTION+SNAKE&color=00d4ff&width=400&height=35&size=16&center=true&&repeat=true&pause=3000" width="100%"/>
+<img src="https://weballtech.com/api/text-animation?animation=stroke&lines=🐍+|+CONTRIBUTION+SNAKE&color=00d4ff&width=400&height=35&size=16&center=true&&repeat=true&pause=3000" width="90%"/>
 
 ---
 
