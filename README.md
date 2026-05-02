@@ -84,14 +84,16 @@ I build fast, human-centered web experiences and ship consistently in public.
 
 # 📊 GitHub Stats:<div align="center">![Profile Views](https://komarev.com/ghpvc/?username=bkness&color=blueviolet&style=for-the-badge)</div>
 
-<img src="assets/reactjs.svg" height="70"/>
-<img src="assets/javascript.svg" height="70"/>
-<img src="assets/css3.svg" height="70"/>
-<img src="assets/nodejs.svg" height="70"/>
-<img src="assets/netlify.svg" height="70"/>
-<img src="assets/railway.svg" height="70"/>
-<img src="assets/render.svg" height="70"/>
-<img src="assets/vercel.svg" height="70"/>
+<p align="center">
+<img src="assets/reactjs.svg" height="50"/>
+<img src="assets/javascript.svg" height="50"/>
+<img src="assets/css3.svg" height="50"/>
+<img src="assets/nodejs.svg" height="50"/>
+<img src="assets/netlify.svg" height="50"/>
+<img src="assets/railway.svg" height="50"/>
+<img src="assets/render.svg" height="50"/>
+<img src="assets/vercel.svg" height="50"/>
+</p>
 
 ---
 
