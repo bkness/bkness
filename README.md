@@ -1,57 +1,57 @@
-<div>
-  <img src="https://www.weballtech.com/api/badge" alt="Status" width="100%" />
+<!-- Online badge -->
+<div align="center">
+  <img src="https://www.weballtech.com/api/badge" alt="Status" width="90%" />
 </div>
 <br />
 
-<br />
+<!-- Opening Stack animated font  -->
+<img src="https://www.weballtech.com/api/text-animation?animation=typing&font=code&lines=Full-Stack+JavaScript+Engineer;Always+problem+solving;Always+learning+something+new;&color=00ff41&size=28&width=500&height=30&center=true&vCenter=true" width="90%"/>
 
-<img src="https://www.weballtech.com/api/text-animation?animation=typing&font=code&lines=Full-Stack+JavaScript+Engineer;Always+problem+solving;Always+learning+something+new;&color=00ff41&size=28&width=500&height=30&center=true&vCenter=true" width="100%"/>
+<img src="https://weballtech.com/api/text-animation?animation=reveal&lines=REACT+|+NODE+|+EXPRESS&color=00d4ff&width=380&height=60&size=16&repeat=true&center=true&vCenter=true&pause=3000" width="90%" />
 
-<img src="https://weballtech.com/api/text-animation?animation=reveal&lines=REACT+|+NODE+|+EXPRESS&color=00d4ff&width=380&height=60&size=16&repeat=true&center=true&vCenter=true&pause=3000" width="100%" />
-
-<img src="https://weballtech.com/api/text-animation?animation=neon&lines=CLI+|+REST+|+AUTH&color=00d4ff&width=350&height=20&size=14&repeat=true&center=true&vCenter=true&pause=3000" width="100%" />
+<img src="https://weballtech.com/api/text-animation?animation=neon&lines=CLI+|+REST+|+AUTH&color=00d4ff&width=350&height=20&size=14&repeat=true&center=true&vCenter=true&pause=3000" width="90%" />
 
 <br />
 
 ---
 
+<!-- My personal BIO terminal gif -->
 <br />
 
 <p align="center">
-  <img src="assets/bkness_terminal.gif" width="100%" />
+  <img src="assets/bkness_terminal.gif" width="90%" />
 </p>
 
 ---
 
+<!-- Opening bio animated text font -->
 <img src="https://weballtech.com/api/text-animation?animation=fade&lines=Full-Stack+Developer+%7C+JS+%C2%B7+React+%C2%B7+Node;93+percent+ASU+edX+Bootcamp+%F0%9F%92%AA;Building+things+that+work+for+humans+%F0%9F%8C%B1&color=00df41&width=900&height=140&size=28&duration=2500&repeat=true&pause=1000&multiline=true&center=true&vCenter=true" width="100%"/>
 
+<!-- Animated svg text BIO -->
 <img src="https://weballtech.com/api/text-animation?animation=reveal&lines=Full-Stack+JavaScript+Enginerr+focused+on+React+%C2%B7+Node+%C2%B7+API-driven;products.;I+build+fast,+user-centered+web+experiences+and+ship+consistently;in+public.&color=00d4ff&width=950&height=140&size=22&repeat=truee&pause=3000&speed=-200&multiline=true&center=true&vCenter=true" width="100%"/>
-
-<!-- <div align="center">
-<h2>
-Full-stack JavaScript engineer focused on React, Node.js, and API-driven products.
-I build fast, human-centered web experiences and ship consistently in public.
-</h2>
-</div> -->
 
 ---
 
+<!-- Forges-CLI terminal gif -->
 <p align="center">
-  <img src="assets/terminal.gif" width="100%" alt="bkness" />
+  <img src="assets/terminal.gif" width="90%" alt="bkness" />
 </p>
 <br />
 
 ---
 
-<p>
-  <img src="assets/night-loop.gif">
+<!-- Gifs -->
+<p align="center">
+  <img src="assets/night-loop.gif" width="90%">
 </p>
 <p align="center">
-  <img src="assets/doesnt-work.gif" width="49%" height="430" alt="doesnt work" />
-  <img src="assets/typing-cat.gif" width="49%" height="430" alt="typing cat" />
+  <img src="assets/doesnt-work.gif" width="48%" height="325" alt="doesnt work" />
+  <img src="assets/typing-cat.gif" width="48%" height="325" alt="typing cat" />
 </p>
 
 ---
+
+<!-- Socials section -->
 
 # 🌐 Socials:
 
@@ -63,6 +63,7 @@ I build fast, human-centered web experiences and ship consistently in public.
 
 ---
 
+<!-- Stacks used -->
 # 💻 Tech Stack:
 
 
@@ -74,15 +75,20 @@ I build fast, human-centered web experiences and ship consistently in public.
 
 ---
 
+<!-- My banner gif -->
 <p align="center">
-  <img src="assets/bkness.gif" width="100%" alt="bkness" />
+  <img src="assets/bkness.gif" width="90%" alt="bkness" />
 </p>
 
 ---
+<!-- Profile counter, deployment badges and github stats -->
+# 📊 GitHub Stats:
 
-<br>
+<div align="center">
 
-# 📊 GitHub Stats:<div align="center">![Profile Views](https://komarev.com/ghpvc/?username=bkness&color=blueviolet&style=for-the-badge)</div>
+![Profile Views](https://komarev.com/ghpvc/?username=bkness&color=blueviolet&style=for-the-badge)
+
+</div>
 
 <p align="center">
 <img src="assets/reactjs.svg" height="50"/>
@@ -99,7 +105,7 @@ I build fast, human-centered web experiences and ship consistently in public.
 
 <div align="center">
 
-![](https://github-readme-stats.shion.dev/api?username=bkness&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)![](https://github-readme-stats.shion.dev/api/top-langs/?username=bkness&theme=github_dark&card_width=450&langs_count=8&hide_border=false&include_all_commits=true&count_private=true&layout=compact)![](https://streak-stats.demolab.com/?user=bkness&theme=midnight-purple&hide_border=false)
+![](https://github-readme-stats.shion.dev/api?username=bkness&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)![](https://github-readme-stats.shion.dev/api/top-langs/?username=bkness&theme=midnight-purple&card_width=450&langs_count=8&hide_border=false&include_all_commits=true&count_private=true&layout=compact)![](https://streak-stats.demolab.com/?user=bkness&theme=midnight-purple&hide_border=false)
 
 </div>
 
@@ -107,28 +113,32 @@ I build fast, human-centered web experiences and ship consistently in public.
 
 ---
 
+<!-- Headphones / music gif -->
 <div align="center">
 <br>
 
-<img src="assets/headphones.svg" width="1000" alt="always listening" />
+<img src="assets/headphones.svg" width="700" alt="always listening" />
 
 <br />
 </div>
 
 ---
 
+<!-- Another personal banner -->
 <p align="center">
-  <img src="assets/banner1.gif" width="100%" alt="bkness" />
+  <img src="assets/banner1.gif" width="90%" alt="bkness" />
 </p>
 
 ---
 
+<!-- Contribution snake animated text display 🐍 -->
 <br />
 
-<img src="https://weballtech.com/api/text-animation?animation=stroke&lines=🐍+|+CONTRIBUTION+SNAKE&color=00d4ff&width=400&height=35&size=16&center=true&&repeat=true&pause=3000" width="100%"/>
+<img src="https://weballtech.com/api/text-animation?animation=stroke&lines=🐍+|+CONTRIBUTION+SNAKE&color=00d4ff&width=400&height=35&size=16&center=true&&repeat=true&pause=3000" width="90%"/>
 
 ---
 
+<!-- Contribution snake gif  -->
 <picture>
     <source media="(prefers-color-scheme: dark)"
   srcset="https://raw.githubusercontent.com/bkness/bkness/main/github-snake-dark.svg" />
@@ -140,6 +150,7 @@ I build fast, human-centered web experiences and ship consistently in public.
 
 ---
 
+<!-- Pacman contribution gif custom -->
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -152,6 +163,7 @@ I build fast, human-centered web experiences and ship consistently in public.
 
 ---
 
+<!-- Mario gif -->
 <br>
 
 ![gifgithub](https://raw.githubusercontent.com/bkness/bkness/main/assets/mario.gif)
@@ -160,6 +172,7 @@ I build fast, human-centered web experiences and ship consistently in public.
 
 ---
 
+<!-- Youtube video testing social media API I made  -->
 ### Social Media API
 
 A RESTful API built with **Express.js** and **MongoDB/Mongoose** — full CRUD for users,
@@ -169,6 +182,7 @@ thoughts, and reactions. Designed to mirror the data demands of a real social pl
 
 ---
 
+<!-- Contact and donate section with a ridiculous wall of nbsp for spacing -->
 <div align="center">
 <br />
 
