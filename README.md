@@ -30,7 +30,7 @@
 
 <br />
 
-<!-- Asteroids bait — links to portfolio terminal where slack off launches the game -->
+<!-- Asteroids bait — links to portfolio terminal where slack off launches the game. -->
 <div align="center">
   <a href="https://portfolio-ebon-three-or63adup7k.vercel.app">
     <img src="assets/play-asteroids.svg" width="600" alt="▶ Play Asteroids — slack off → bkness.dev" />
