@@ -1,9 +1,10 @@
 <div align="center">
-  <img src="assets/nextjs-error.svg" width="100%" alt="Runtime TypeError: hiring.find(dev => dev.yearsExp >= 5) returned undefined" />
+  <a href="https://portfolio-ebon-three-or63adup7k.vercel.app/">
+    <img src="assets/nextjs-error.svg" width="100%" alt="Runtime TypeError: hiring.find(dev => dev.yearsExp >= 5) returned undefined" />
 </div>
 
 <div align="center">
-  <img src="https://weballtech.com/api/text-animation?animation=typing&lines=One+thing+every+dev+has+in+common...+we%27ve+all+been+here.&color=666666&width=600&height=36&size=14&center=true&vCenter=true&pause=99999" width="100%" alt="One thing every dev has in common, we've all been here." />
+  <img src="https://weballtech.com/api/text-animation?animation=typing&lines=One  +thing+every+dev+has+in+common...+we%27ve+all+been+here.&color=666666 &width=600&height=36&size=14&center=true&vCenter=true&pause=99999"       width="100%" alt="One thing every dev has in common, we've all been here." />
 </div>
 
 <br />
@@ -32,9 +33,12 @@
 
 <!-- Asteroids bait — links to portfolio terminal where slack off launches the game -->
 <div align="center">
-  <a href="https://bkness.dev">
+  <a href="https://portfolio-ebon-three-or63adup7k.vercel.app">
     <img src="assets/play-asteroids.svg" width="600" alt="▶ Play Asteroids — slack off → bkness.dev" />
   </a>
+  <p>
+     Type "slack off" "in therminal 
+  </p>
 </div>
 
 <br />
