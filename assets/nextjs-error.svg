@@ -1,0 +1,108 @@
+<svg width="860" height="530" viewBox="0 0 860 530" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; }
+      .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+    </style>
+  </defs>
+
+  <!-- Page background -->
+  <rect width="860" height="530" fill="#0a0a0a"/>
+
+  <!-- Blurred page content behind (faint suggestion of a page) -->
+  <rect x="0" y="0" width="860" height="530" fill="rgba(0,0,0,0.7)"/>
+
+  <!-- Error card -->
+  <rect x="0" y="0" width="860" height="530" rx="10" ry="10" fill="#1b1b1b" stroke="#2e2e2e" stroke-width="1"/>
+
+  <!-- ── Header bar ── -->
+  <!-- Nav arrow left -->
+  <rect x="16" y="12" width="30" height="26" rx="5" fill="#2a2a2a" stroke="#3a3a3a" stroke-width="1"/>
+  <text x="31" y="30" text-anchor="middle" fill="#555" font-size="15" class="sans">‹</text>
+
+  <!-- Nav arrow right -->
+  <rect x="50" y="12" width="30" height="26" rx="5" fill="#2a2a2a" stroke="#3a3a3a" stroke-width="1"/>
+  <text x="65" y="30" text-anchor="middle" fill="#555" font-size="15" class="sans">›</text>
+
+  <!-- 1/1 -->
+  <text x="88" y="29" fill="#555" font-size="12" class="sans">1 / 1</text>
+
+  <!-- Next.js badge (right side) -->
+  <circle cx="642" cy="25" r="4.5" fill="#22c55e"/>
+  <text x="652" y="29" fill="#555" font-size="11" class="sans">Next.js 16.2.4 Turbopack</text>
+
+  <!-- Copy icon button -->
+  <rect x="796" y="12" width="28" height="26" rx="5" fill="#2a2a2a" stroke="#3a3a3a" stroke-width="1"/>
+  <rect x="804" y="18" width="12" height="13" rx="2" fill="none" stroke="#555" stroke-width="1.5"/>
+  <rect x="808" y="15" width="12" height="13" rx="2" fill="#2a2a2a" stroke="#555" stroke-width="1.5"/>
+
+  <!-- Fullscreen icon button -->
+  <rect x="828" y="12" width="28" height="26" rx="5" fill="#2a2a2a" stroke="#3a3a3a" stroke-width="1"/>
+  <polyline points="836,25 836,20 841,20" fill="none" stroke="#555" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <polyline points="848,25 848,20 843,20" fill="none" stroke="#555" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <polyline points="836,26 836,31 841,31" fill="none" stroke="#555" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <polyline points="848,26 848,31 843,31" fill="none" stroke="#555" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Header divider -->
+  <line x1="0" y1="50" x2="860" y2="50" stroke="#2e2e2e" stroke-width="1"/>
+
+  <!-- ── Error type label ── -->
+  <text x="28" y="84" fill="#f87171" font-size="13" font-weight="500" class="sans">Runtime TypeError</text>
+
+  <!-- ── Main error message ── -->
+  <text x="28" y="120" fill="#f1f1f1" font-size="20" font-weight="700" class="sans">hiring.find(dev =&gt; dev.yearsExp &gt;= 5)</text>
+  <text x="28" y="148" fill="#f1f1f1" font-size="20" font-weight="700" class="sans">returned undefined</text>
+
+  <!-- Error section divider -->
+  <line x1="0" y1="170" x2="860" y2="170" stroke="#2e2e2e" stroke-width="1"/>
+
+  <!-- ── Source section ── -->
+  <text x="28" y="194" fill="#666" font-size="11" font-weight="600" letter-spacing="0.8" class="sans">SOURCE</text>
+
+  <!-- Source file box -->
+  <rect x="28" y="202" width="804" height="34" rx="5" fill="#111" stroke="#2e2e2e" stroke-width="1"/>
+  <text x="42" y="223" fill="#888" font-size="12" class="mono">node_modules/enterprise-ats/dist/screen.js</text>
+  <text x="720" y="223" fill="#555" font-size="12" class="mono">(404:1)</text>
+
+  <!-- Source divider -->
+  <line x1="0" y1="248" x2="860" y2="248" stroke="#2e2e2e" stroke-width="1"/>
+
+  <!-- ── Call Stack ── -->
+  <text x="28" y="272" fill="#666" font-size="11" font-weight="600" letter-spacing="0.8" class="sans">CALL STACK</text>
+
+  <!-- Frame 1 -->
+  <text x="28" y="298" fill="#d4d4d4" font-size="13" class="mono">rejectApplication</text>
+  <text x="28" y="316" fill="#555" font-size="11" class="mono">    node_modules/enterprise-ats/dist/chunk-ENOENT.js (69:420)</text>
+
+  <!-- Frame 2 (highlighted — the "your code" frame) -->
+  <rect x="0" y="328" width="860" height="46" fill="#1f1212"/>
+  <rect x="0" y="328" width="3" height="46" fill="#f87171"/>
+  <text x="28" y="350" fill="#fca5a5" font-size="13" class="mono">parseYearsOfExperience</text>
+  <text x="28" y="368" fill="#7a4545" font-size="11" class="mono">    node_modules/boomer-logic/dist/index.js (19:84)</text>
+
+  <!-- Frame 3 -->
+  <text x="28" y="396" fill="#d4d4d4" font-size="13" class="mono">ignorePortfolio</text>
+  <text x="28" y="414" fill="#555" font-size="11" class="mono">    node_modules/enterprise-ats/dist/chunk-ENOENT.js (1:1)</text>
+
+  <!-- Frame 4 -->
+  <text x="28" y="442" fill="#d4d4d4" font-size="13" class="mono">processResume</text>
+  <text x="28" y="460" fill="#555" font-size="11" class="mono">    careers/junior/page.tsx (404:404)</text>
+
+  <!-- Show ignored frames -->
+  <text x="28" y="490" fill="#555" font-size="12" class="sans" text-decoration="underline">Show 12 ignore-listed frames</text>
+
+  <!-- Bottom divider -->
+  <line x1="0" y1="500" x2="860" y2="500" stroke="#2e2e2e" stroke-width="1"/>
+
+  <!-- Bottom bar: action buttons -->
+  <rect x="0" y="500" width="860" height="30" rx="0" fill="#161616"/>
+  <rect x="0" y="500" width="860" height="30" rx="0" fill="#161616"/>
+  <!-- round bottom corners only -->
+  <rect x="0" y="500" width="860" height="30" fill="#161616"/>
+  <rect x="0" y="510" width="860" height="20" rx="0" fill="#161616"/>
+  <path d="M0 500 h860 v20 q0 10 -10 10 h-840 q-10 0 -10 -10 z" fill="#161616"/>
+
+  <!-- Open in Editor button -->
+  <rect x="712" y="508" width="136" height="18" rx="4" fill="#2563eb"/>
+  <text x="780" y="521" text-anchor="middle" fill="white" font-size="11" font-weight="600" class="sans">open bkness.dev</text>
+</svg>
