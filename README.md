@@ -1,6 +1,7 @@
 <div align="center">
   <a href="https://portfolio-ebon-three-or63adup7k.vercel.app/">
     <img src="assets/nextjs-error.svg" width="100%" alt="Runtime TypeError: hiring.find(dev => dev.yearsExp >= 5) returned undefined" />
+  </a>
 </div>
 
 <div align="center">
@@ -26,6 +27,10 @@
   <a href="https://github.com/bkness?tab=repositories">
     <img src="https://img.shields.io/badge/dynamic/json?color=00D4FF&label=repos&query=%24.total_repos&url=https://gist.github.com/bkness/b30f1f99edb7844f8484c6e520b5a322/raw/total-repos.json&style=flat-square" alt="total repos" height="28" />
   </a>
+  &nbsp;
+  <a href="https://www.weballtech.com">
+    <img src="https://www.weballtech.com/api/badge" alt="weballtech status" height="28" />
+  </a>
 </div>
 
 <br />
@@ -36,7 +41,7 @@
     <img src="assets/play-asteroids.svg" width="600" alt="▶ Play Asteroids — slack off → bkness.dev" />
   </a>
   <p>
-     Type "slack off" "in therminal 
+     Type "slack off" in the terminal
   </p>
 </div>
 
