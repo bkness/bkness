@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://weballtech-brandon-kellys-projects.vercel.app/api/text-animation?animation=typing&lines=One+thing+every+dev+has+in+common...+we%27ve+all+been+here.&color=666666 &width=600&height=36&size=14&center=true&vCenter=true&repeat=true" width="100%" alt="One thing every dev has in common, we've all been here." />
+  <img src="https://weballtech-brandon-kellys-projects.vercel.app/api/text-animation?animation=typing&lines=One+thing+every+dev+has+in+common...+we%27ve+all+been+here.&color=666666&width=600&height=36&size=14&center=true&vCenter=true&repeat=true" width="100%" alt="One thing every dev has in common, we've all been here." />
 </div>
 
 <br />
