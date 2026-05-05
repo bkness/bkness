@@ -1,11 +1,11 @@
 <div align="center">
-  <a href="https://portfolio-ebon-three-or63adup7k.vercel.app/">
+  <a href="https://www.weballtech.com">
     <img src="assets/nextjs-error.svg" width="100%" alt="Runtime TypeError: hiring.find(dev => dev.yearsExp >= 5) returned undefined" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://weballtech.com/api/text-animation?animation=typing&lines=One  +thing+every+dev+has+in+common...+we%27ve+all+been+here.&color=666666 &width=600&height=36&size=14&center=true&vCenter=true&pause=99999"       width="100%" alt="One thing every dev has in common, we've all been here." />
+  <img src="https://weballtech-brandon-kellys-projects.vercel.app/api/text-animation?animation=typing&lines=One+thing+every+dev+has+in+common...+we%27ve+all+been+here.&color=666666 &width=600&height=36&size=14&center=true&vCenter=true&repeat=true" width="100%" alt="One thing every dev has in common, we've all been here." />
 </div>
 
 <br />
@@ -27,22 +27,24 @@
   <a href="https://github.com/bkness?tab=repositories">
     <img src="https://img.shields.io/badge/dynamic/json?color=00D4FF&label=repos&query=%24.total_repos&url=https://gist.github.com/bkness/b30f1f99edb7844f8484c6e520b5a322/raw/total-repos.json&style=flat-square" alt="total repos" height="28" />
   </a>
-  &nbsp;
-  <a href="https://www.weballtech.com">
-    <img src="https://www.weballtech.com/api/badge" alt="weballtech status" height="28" />
-  </a>
 </div>
 
 <br />
 
 <!-- Asteroids bait — links to portfolio terminal where slack off launches the game. -->
 <div align="center">
-  <a href="https://portfolio-ebon-three-or63adup7k.vercel.app">
+  <a href="https://www.weballtech.com">
     <img src="assets/play-asteroids.svg" width="600" alt="▶ Play Asteroids — slack off → bkness.dev" />
   </a>
-  <p>
-     Type "slack off" in the terminal
-  </p>
+  <img src="https://weballtech-brandon-kellys-projects.vercel.app/api/text-animation?animation=reveal&lines=Type+slack+off+in+the+terminal.&color=666666&width=600&height=36&size=14&center=true&vCenter=true&speed=80&pause=3000" width="100%" alt="Type slack off in the terminal" />
+</div>
+
+<br />
+
+<div align="center">
+ <a href="https://weballtech-brandon-kellys-projects.vercel.app">
+    <img src="https://weballtech-brandon-kellys-projects.vercel.app/api/badge" alt="weballtech status" width="600" />
+  </a>
 </div>
 
 <br />
