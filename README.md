@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://www.weballtech.com">
+  <a href="https://brandonkelly.vercel.app">
     <img src="assets/nextjs-error.svg" width="100%" alt="Runtime TypeError: hiring.find(dev => dev.yearsExp >= 5) returned undefined" />
   </a>
 </div>
@@ -33,7 +33,7 @@
 
 <!-- Asteroids bait — links to portfolio terminal where slack off launches the game. -->
 <div align="center">
-  <a href="https://www.weballtech.com">
+  <a href="https://brandonkelly.vercel.app">
     <img src="assets/play-asteroids.svg" width="600" alt="▶ Play Asteroids — slack off → bkness.dev" />
   </a>
   <img src="https://weballtech-brandon-kellys-projects.vercel.app/api/text-animation?animation=reveal&lines=Type+slack+off+in+the+terminal.&color=666666&width=600&height=36&size=14&center=true&vCenter=true&speed=80&pause=3000" width="100%" alt="Type slack off in the terminal" />
