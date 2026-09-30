@@ -12,21 +12,13 @@
 
 <!-- forged-cli badges — npm publish + gist action signals -->
 <div align="center">
-  <a href="https://www.npmjs.com/package/forged-cli">
-    <img src="https://img.shields.io/npm/v/forged-cli?color=00D4FF&style=flat-square" alt="npm version" height="28" />
-  </a>
-  &nbsp;
-  <a href="https://www.npmjs.com/package/forged-cli">
-    <img src="https://img.shields.io/npm/dt/forged-cli?color=00D4FF&style=flat-square" alt="downloads" height="28" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/bkness/forged-cli">
-    <img src="https://img.shields.io/npm/l/forged-cli?color=00D4FF&style=flat-square" alt="license" height="28" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/bkness?tab=repositories">
-    <img src="https://img.shields.io/badge/dynamic/json?color=00D4FF&label=repos&query=%24.total_repos&url=https://gist.github.com/bkness/b30f1f99edb7844f8484c6e520b5a322/raw/total-repos.json&style=flat-square" alt="total repos" height="28" />
-  </a>
+
+[![npm version](https://img.shields.io/npm/v/forged-cli?color=00ff41&style=flat-square)](https://www.npmjs.com/package/forged-cli)
+[![downloads](https://img.shields.io/npm/dt/forged-cli?color=00ff41&style=flat-square)](https://www.npmjs.com/package/forged-cli)
+[![tests](https://img.shields.io/github/actions/workflow/status/bkness/forged-cli/test.yml?branch=main&label=tests&color=00ff41&style=flat-square)](https://github.com/bkness/forged-cli/actions/workflows/test.yml)
+[![license](https://img.shields.io/npm/l/forged-cli?color=00ff41&style=flat-square)](https://github.com/bkness/forged-cli)
+[![total repos](https://img.shields.io/badge/dynamic/json?color=00ff41&label=repos&query=%24.total_repos&url=https%3A%2F%2Fgist.githubusercontent.com%2Fbkness%2Fb30f1f99edb7844f8484c6e520b5a322%2Fraw%2Ftotal-repos.json&style=flat-square)](https://github.com/bkness?tab=repositories)
+
 </div>
 
 <br />
